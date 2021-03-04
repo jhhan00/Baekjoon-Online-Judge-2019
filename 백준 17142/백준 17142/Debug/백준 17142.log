@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\jhhan\onedrive\바탕 화면\백준 17142\백준 17142\소스.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jhhan\onedrive\바탕 화면\백준 17142\백준 17142\소스.cpp(80): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 17142.vcxproj -> C:\Users\jhhan\OneDrive\바탕 화면\백준 17142\Debug\백준 17142.exe

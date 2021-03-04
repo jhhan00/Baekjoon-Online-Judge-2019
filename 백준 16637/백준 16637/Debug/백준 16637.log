@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\jhhan\onedrive\바탕 화면\백준 16637\백준 16637\소스.cpp(6): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+c:\users\jhhan\onedrive\바탕 화면\백준 16637\백준 16637\소스.cpp(6): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  백준 16637.vcxproj -> C:\Users\jhhan\OneDrive\바탕 화면\백준 16637\Debug\백준 16637.exe

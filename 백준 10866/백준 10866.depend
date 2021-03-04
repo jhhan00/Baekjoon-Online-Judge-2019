@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562378886 source:c:\users\jhhan\onedrive\바탕 화면\백준 10866\main.cpp
+	<iostream>
+	<cstdio>
+	<deque>
+	<string>
+
